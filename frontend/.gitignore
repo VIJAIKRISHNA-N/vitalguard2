@@ -19,3 +19,12 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual env (if you use one)
+venv/
+.env/
